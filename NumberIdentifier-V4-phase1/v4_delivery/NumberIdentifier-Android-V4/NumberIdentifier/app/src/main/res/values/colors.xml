@@ -1,0 +1,17 @@
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="bg_light">#F8F9FC</color>
+    <color name="bg_dark">#121218</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surface_dark">#1C1C24</color>
+
+    <!-- One accent color per main feature, used consistently across the app -->
+    <color name="accent_check">#5B6EF5</color>
+    <color name="accent_find">#12B886</color>
+    <color name="accent_calculator">#FF922B</color>
+    <color name="accent_currency">#F0A202</color>
+    <color name="accent_unit">#8B5CF6</color>
+    <color name="accent_age">#F06595</color>
+    <color name="accent_info">#22B8CF</color>
+    <color name="accent_settings">#868E96</color>
+</resources>
